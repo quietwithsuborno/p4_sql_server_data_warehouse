@@ -2,7 +2,7 @@
 
 Welcome to the **Data Warehouse Project** repository!
 
-This project demonstrates the design and implementation of a modern data warehouse and analytics solution using SQL Server. It follows an end-to-end approach from raw data ingestion to delivering business-ready datasets for analytical reporting.
+This project demonstrates the design and implementation of a modern data warehouse using SQL Server. It follows an end-to-end approach from raw data ingestion to delivering business-ready datasets for analytical reporting.
 
 The project integrates data from CRM and ERP systems and implements the Medallion Architecture (Bronze, Silver, and Gold layers) to transform raw data into meaningful business insights.
 
@@ -124,7 +124,7 @@ To ensure reliability and consistency, the following checks are applied:
 ## 📁 Project Structure
 
 The repository is organized as follows:
-
+```text
 data-warehouse-project/
 ├── datasets/                                   # Raw datasets used for the project (ERP and CRM data)
 ├── docs/                                       # Project documentation and architecture details
