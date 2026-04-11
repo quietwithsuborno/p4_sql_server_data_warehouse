@@ -142,7 +142,7 @@ data-warehouse-project/
 ├── tests/                                      # Test scripts and quality files
 ├── README.md                                   # Project overview and instructions
 ├── LICENSE                                     # License information for the repository
-
+```
 ---
 
 ## 🚀 How to Run the Project
