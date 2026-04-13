@@ -157,6 +157,13 @@ data-warehouse-project/
 
 ---
 
+## 🔗 Project Link & Connection
+This repository focus on the analytical layer, transforming data from the warehouse into actionable business intelligence. You can explore the complete analysis and the interactive Excel dashboards here:
+
+👉 **[Explore the SQL-Data-Warehouse-to-Insights Project](https://github.com/quietwithsuborno/p5-sql-data-warehouse-to-insights.git)**
+
+*This project serves as the visualization and insight-driven extension of this SQL Server Data Warehouse work.*
+
 ## 🔮 Future Improvements
 
 - Implement incremental data loading  
